@@ -1,0 +1,8 @@
+body{
+    background-color: blue;
+    color: azure;
+    font-family: 'Segoe UI', Tahoma, sans-serif;
+    height: 150px;
+    overflow: hidden;
+    border-radius: 5px;
+}
